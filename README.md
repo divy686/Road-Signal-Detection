@@ -21,7 +21,7 @@ The project includes:
 The dataset used is the **German Traffic Sign Recognition Benchmark (GTSRB)**, which contains more than 50,000 images of road signs in 43 classes.  
 
  Download the dataset from Kaggle:  
-[German Traffic Sign Recognition Dataset (Kaggle)](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed)
+[German Traffic Sign Recognition Dataset (Kaggle)](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 
 
