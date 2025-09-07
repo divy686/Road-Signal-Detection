@@ -59,6 +59,7 @@ The dataset used is the **German Traffic Sign Recognition Benchmark (GTSRB)**, w
 
 
  ##  Sample Output
+ 
 
 ![App Demo](images/demo.png)
 
